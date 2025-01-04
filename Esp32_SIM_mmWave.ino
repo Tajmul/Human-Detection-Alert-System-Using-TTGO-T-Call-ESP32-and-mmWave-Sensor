@@ -42,7 +42,7 @@
 #define APN "internet"         // Replace with your network provider's APN
 #define GPRS_USER ""           // Leave empty if not required
 #define GPRS_PASS ""           // Leave empty if not required
-#define PHONE_NUMBER "+8801727266040" // Replace with your phone number
+#define PHONE_NUMBER "+880**********" // Replace with your phone number
 
 #define SerialMon Serial
 #define SerialAT Serial1
